@@ -1,0 +1,15 @@
+sources:
+  - name: DATA_SCHEMA
+    database: DATA_DB
+    schema: DATA_SCHEMA
+
+    tables:
+      - name: CUSTOMERS
+        identifier: CUSTOMERS
+      - name: ORDERS
+        identifier: ORDERS
+      - name: PRODUCTS
+        identifier: PRODUCTS 
+      - name: EMPLOYEES
+        identifier: EMPLOYEES
+      
